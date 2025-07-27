@@ -1,6 +1,6 @@
 # Ethical_Hacking_College_Project
 
-This repository serves as the PoW, which I did from March 2025 to 1st week of June 2025, for my College Project.
+This repository serves as the Proof of Work (PoW) that I completed from March 2025 to the first week of June 2025 for my College Project.
 
 The project delves into the domain of offensive security, focusing on penetration testing practices using Kali Linux within a controlled virtual environment. 
 
